@@ -1,10 +1,15 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is my awesome repo!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+
+- faster
+- stronger
+- higher 
+ 
+
 
 ## Getting started
 
